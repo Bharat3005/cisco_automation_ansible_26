@@ -1,0 +1,2 @@
+ansible_password: secretpassword
+ansible_become_password: enablepassword
